@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Black</name>
+   <tag></tag>
+   <elementGuidId>4947b569-06b9-4e82-aeb0-1d03f2d9ef31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[9]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7e436ad4-1b26-4e7e-94a7-f64aed11b010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_color__3bHLn card-text</value>
+      <webElementGuid>f3f25b95-4823-49c7-a599-6bc4cbb388e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Black</value>
+      <webElementGuid>0e69693a-4a70-403e-8c08-a32cfd53cc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL&quot;]/div[@class=&quot;product_card__2fE9l p-2 card border-primary&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;product_color__3bHLn card-text&quot;]</value>
+      <webElementGuid>a2f21eed-de09-4b65-83c8-0fe03c5d150b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[9]/div/div/p</value>
+      <webElementGuid>f5713e85-2ded-4043-af93-44d8cf599f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99 CAD'])[1]/following::p[1]</value>
+      <webElementGuid>3c8da80d-43b2-45c7-a019-ea64cde2518e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tank Top'])[1]/following::p[1]</value>
+      <webElementGuid>d6d1b6df-8396-4b40-87d2-0d56c78034ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belted Plaid Blazer'])[1]/preceding::p[1]</value>
+      <webElementGuid>53dc081d-cede-4001-9322-360fd7709331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$79.99 CAD'])[3]/preceding::p[1]</value>
+      <webElementGuid>c7fcecc9-03ec-4377-a840-9851a66a0320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Black']/parent::*</value>
+      <webElementGuid>3dbe64d3-145e-4531-950e-caf3f17b1492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/p</value>
+      <webElementGuid>70b903ae-6b48-4c62-ae22-b853cfe46c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Black' or . = 'Black')]</value>
+      <webElementGuid>c6c833ac-7e0d-49f5-bb18-a9453e7fdba0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

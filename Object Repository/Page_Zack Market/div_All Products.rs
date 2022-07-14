@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All Products</name>
+   <tag></tag>
+   <elementGuidId>e3e3c090-f21b-4192-abb7-c5e65605bb97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu_outbox__21_Hg > div.menu_tag__AhL7t</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba840916-31fc-4576-9c8f-5e00a539fba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_tag__AhL7t</value>
+      <webElementGuid>cd7deaa7-03c3-4a65-a77c-4818bfa89e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Products</value>
+      <webElementGuid>a733dd42-3311-4eb9-814c-f61b1bb7ee29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;productOverview_outbox__1y4XD&quot;]/div[@class=&quot;header_outbox__3eyFu&quot;]/div[@class=&quot;header_content__7Jk3i&quot;]/div[@class=&quot;header_mid__3-jgP&quot;]/div[@class=&quot;menu_outbox__21_Hg&quot;]/div[@class=&quot;menu_tag__AhL7t&quot;]</value>
+      <webElementGuid>d2914db0-ba10-4c10-a92e-b6a9e1333e1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>954bfd44-4f00-4250-9653-19ae5bc9d09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zack Market'])[2]/following::div[10]</value>
+      <webElementGuid>858b7209-a7ca-4a21-9e81-0930933ff09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faux Leather Perforated Jacket'])[1]/preceding::div[8]</value>
+      <webElementGuid>fc7f734b-74ca-45c1-9d88-0f3abbd98011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Products']/parent::*</value>
+      <webElementGuid>e706a5d8-a924-47e5-84b9-36d52c7df8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>6ea5f428-6579-4e92-a7e1-1b6515e0d8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All Products' or . = 'All Products')]</value>
+      <webElementGuid>258e9ee6-9b24-4ff6-98b1-6354209ff7c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

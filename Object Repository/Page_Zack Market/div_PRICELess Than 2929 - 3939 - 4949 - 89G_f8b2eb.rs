@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PRICELess Than 2929 - 3939 - 4949 - 89G_f8b2eb</name>
+   <tag></tag>
+   <elementGuidId>dfc7cf7f-4eb5-4dd4-914f-92d058942bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eec5c195-7a74-4b49-9c1a-228c3e304236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter_block__346dt</value>
+      <webElementGuid>a4d4c44a-0703-4ea3-a09b-b143c1c4dbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRICELess Than $29$29 - $39$39 - $49$49 - $89Greater Than $89</value>
+      <webElementGuid>cd1abe5f-e2b3-4a55-a91a-e5df736e1c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;dashboard_filter__1u2Cj&quot;]/div[1]/div[@class=&quot;filter_outbox__1IMbW&quot;]/div[@class=&quot;filter_box__1bW3P&quot;]/div[@class=&quot;filter_content__Vyog7&quot;]/div[@class=&quot;filter_block__346dt&quot;]</value>
+      <webElementGuid>ed26a35d-23bb-4ff8-a55c-ae8c6339f041</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]</value>
+      <webElementGuid>67a5d614-2928-4de7-9f51-ae4ed3ef9958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[2]/following::div[1]</value>
+      <webElementGuid>aa2df32f-aa75-4d28-b29e-b80b0147337a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men'])[2]/following::div[3]</value>
+      <webElementGuid>6aa3c68d-a082-480a-87ff-20feef7f33fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[3]</value>
+      <webElementGuid>5d940185-8818-45e2-b343-1c590b6cb66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PRICELess Than $29$29 - $39$39 - $49$49 - $89Greater Than $89' or . = 'PRICELess Than $29$29 - $39$39 - $49$49 - $89Greater Than $89')]</value>
+      <webElementGuid>1f1cd62b-06be-4f15-a745-77942acb72f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

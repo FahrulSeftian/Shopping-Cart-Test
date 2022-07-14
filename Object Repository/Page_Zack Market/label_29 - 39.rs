@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_29 - 39</name>
+   <tag></tag>
+   <elementGuidId>e5408721-3439-4989-8b66-5d1d268b97b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a97eafc-ee31-47ce-afe1-23bc10028e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$29 - $39</value>
+      <webElementGuid>b3da3cba-fa33-42d1-803b-c53f98be4142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;dashboard_filter__1u2Cj&quot;]/div[1]/div[@class=&quot;filter_outbox__1IMbW&quot;]/div[@class=&quot;filter_box__1bW3P&quot;]/div[@class=&quot;filter_content__Vyog7&quot;]/div[@class=&quot;filter_block__346dt&quot;]/div[@class=&quot;checkbox_outbox__1j2tl&quot;]/label[1]</value>
+      <webElementGuid>7a35bd0c-41e1-47c4-b91f-8a7daa8df76b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]/div[3]/label</value>
+      <webElementGuid>82b8541e-8140-458d-a308-3f1a021bdc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Less Than $29'])[1]/following::label[1]</value>
+      <webElementGuid>d7cd1ba3-fada-46b0-ad48-eb6be00a47de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRICE'])[1]/following::label[2]</value>
+      <webElementGuid>617433f5-7c79-4a69-a9b1-f57cdfcb4c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$39 - $49'])[1]/preceding::label[1]</value>
+      <webElementGuid>79625a5f-d90a-4a18-bc38-5ef235dbd4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/label</value>
+      <webElementGuid>d5fbd824-3a82-44e1-b0d4-0d4457883354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '$29 - $39' or . = '$29 - $39')]</value>
+      <webElementGuid>576d44dd-d677-48ed-a9df-36afc1a6daaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Belted Plaid BlazerFlowy blazer with la_30f829</name>
+   <tag></tag>
+   <elementGuidId>c4639001-e9da-4c0f-a6ab-ecbbd7f6bb5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.productOverview_context__3IbU8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>88b08635-2ca0-4614-91cb-a402d2f36545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productOverview_context__3IbU8</value>
+      <webElementGuid>9042ad2c-9482-4d94-85df-d435599c271c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belted Plaid BlazerFlowy blazer with lapel collar and long sleeves. Self belt. Chest patch pockets and welt pockets at hip. Front double-breasted button closure.$79.99 CADCOLOUR:BlackSIZES:SAdd to BagBuy Now</value>
+      <webElementGuid>4e8136a4-6bbd-40d5-89be-583955f0860e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;productOverview_outbox__1y4XD&quot;]/div[@class=&quot;productOverview_content_box__3xVH-&quot;]/div[@class=&quot;productOverview_content__1yxyz&quot;]/div[@class=&quot;productOverview_context_outbox__32Uav&quot;]/div[@class=&quot;productOverview_context__3IbU8&quot;]</value>
+      <webElementGuid>3eab8ea9-7a95-4660-8d6f-0539d44cdb5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>a2e8ace8-721a-459b-9e89-f2c5c017a8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Products'])[1]/following::div[11]</value>
+      <webElementGuid>830d698e-604b-4566-ba94-b2d91a7e0a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zack Market'])[2]/following::div[21]</value>
+      <webElementGuid>9d4b0d35-09eb-4a49-8fb9-249f9db6ca3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>4a369a26-0c23-47ae-8544-0714a6974f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Belted Plaid BlazerFlowy blazer with lapel collar and long sleeves. Self belt. Chest patch pockets and welt pockets at hip. Front double-breasted button closure.$79.99 CADCOLOUR:BlackSIZES:SAdd to BagBuy Now' or . = 'Belted Plaid BlazerFlowy blazer with lapel collar and long sleeves. Self belt. Chest patch pockets and welt pockets at hip. Front double-breasted button closure.$79.99 CADCOLOUR:BlackSIZES:SAdd to BagBuy Now')]</value>
+      <webElementGuid>b0032e3f-c4b8-4dfd-ab34-e352758a74b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
